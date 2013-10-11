@@ -1,9 +1,5 @@
 (function () {
 
-  window.Dummy = Backbone.Model.extend({
-    defaults: {
-      foo: 'default val'
-    }
-  });
+  window.Product = Backbone.Model.extend({});
 
 })();
